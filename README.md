@@ -5,7 +5,7 @@ I currently attend Townview School of Science and Engineering in Dallas, Texas.
 
 I generally do not use generative AI in my code, and when I do it is clearly disclosed.
 
-I do not require credit to re-use any code I may publish, but I also recommend you get your code from another source.
+I do not require credit for reuse of any code I may publish, but I also recommend you get your code from another source.
 
 <!--I am typed as an INTP or "Logician" on the MBTI, but I personally feel my personality can change depending on who I'm with. -->
 If you don't know me personally, I can be contacted at knox.hudgins@icloud.com
