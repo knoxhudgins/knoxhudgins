@@ -9,8 +9,10 @@ I do not require credit for reuse of any code I may publish, but I also recommen
 
 <!--I am typed as an INTP or "Logician" on the MBTI, but I personally feel my personality can change depending on who I'm with. -->
 If you don't know me personally, I can be contacted at knox.hudgins@icloud.com
+"weniger, aber besser"
 ## 
 <!--
+
 **knoxhudgins/knoxhudgins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
